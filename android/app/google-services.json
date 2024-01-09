@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565280574359",
+    "project_id": "golhisar-yurt",
+    "storage_bucket": "golhisar-yurt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565280574359:android:53f78b67e7cb9a40db12d2",
+        "android_client_info": {
+          "package_name": "com.example.golhisar_yurtt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUe8I8pAa_9K_0vANrU-2rA4d6ZrmMin8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
